@@ -21,6 +21,6 @@ Este é um jogo desenvolvido como parte do curso da Alura, no qual o jogador adi
 
 ### Clique aqui para jogar
 
-jogo-sepia-ten-34.vercel.app
+https://jogo-beatrizalvesdevs-projects.vercel.app/
 
 
